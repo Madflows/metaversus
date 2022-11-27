@@ -105,3 +105,12 @@
   background: #65c4fa;
   filter: blur(150px);
 }
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+.animate-rotate {
+    animation: spin 15s linear infinite;
+}

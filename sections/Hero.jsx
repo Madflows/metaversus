@@ -50,7 +50,7 @@ const Hero = () => (
               <img
                 src="/stamp.png"
                 alt="explore"
-                className="sm:w-[155px] sm:h-[155px] w-[150px] h-[150px] object-contain animate-spin duration-[5500ms]"
+                className="sm:w-[155px] sm:h-[155px] w-[150px] h-[150px] object-contain animate-rotate"
               />
             </div>
           </a>
