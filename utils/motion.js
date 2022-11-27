@@ -17,6 +17,7 @@ export const navVariants = {
       delay: 1,
     },
   },
+  
 };
 
 export const slideIn = (direction, type, delay, duration) => ({
